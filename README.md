@@ -9,3 +9,5 @@ LSTM参数直观理解：https://www.zhihu.com/question/64470274
 RNN梯度消失和爆炸的原因:https://zhuanlan.zhihu.com/p/28687529   https://www.zhihu.com/question/44895610/answer/187174142
 
 lstm学习: https://segmentfault.com/a/1190000016626745#articleHeader11   https://zhuanlan.zhihu.com/p/31700012
+
+深度学习参数介绍:https://www.imooc.com/article/37069
