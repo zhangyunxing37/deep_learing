@@ -11,3 +11,5 @@ RNN梯度消失和爆炸的原因:https://zhuanlan.zhihu.com/p/28687529   https:
 lstm学习: https://segmentfault.com/a/1190000016626745#articleHeader11   https://zhuanlan.zhihu.com/p/31700012
 
 深度学习参数介绍:https://www.imooc.com/article/37069
+
+tensorflow中RNN 与 LSTM 的具体函数解释：https://cloud.tencent.com/developer/article/1064827
