@@ -1,4 +1,4 @@
-# zyx373737
+# 深度学习资料链接汇总
 
 LSTM参数维数转化过程：https://blog.csdn.net/notHeadache/article/details/81164264
 
