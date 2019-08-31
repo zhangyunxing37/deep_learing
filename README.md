@@ -13,3 +13,5 @@ lstm学习: https://segmentfault.com/a/1190000016626745#articleHeader11   https:
 深度学习参数介绍:https://www.imooc.com/article/37069
 
 tensorflow中RNN 与 LSTM 的具体函数解释：https://cloud.tencent.com/developer/article/1064827
+
+TensorFlow 命令教程: https://www.w3cschool.cn/tensorflow_python/tensorflow_python-nmgf2idd.html
